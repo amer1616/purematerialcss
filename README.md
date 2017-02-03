@@ -43,7 +43,6 @@ Badges:
 
 Footer: 
 
-Preloader:
 
 Icons: MD icons
 
@@ -51,7 +50,7 @@ Dropdown:
 
 
 
-
+-----------------
 Proposals
 
 Animations: scale transition, fading In/Out effects, waving effects for Components
@@ -65,6 +64,8 @@ SideNav (later)
 Tooltips:
 
 Modals: simple
+
+Preloader:
 
 Collapsible: Accordions
 
