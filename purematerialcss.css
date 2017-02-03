@@ -1,7 +1,7 @@
 /*!
- * Materialize v0.98.0 (http://materializecss.com)
- * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ * purematerialcss
+ * 
+ * 
  */
 
 /*Colors */
@@ -41,8 +41,6 @@
 .red-text.text-darken-3 {
   color: #C62828 !important;
 }
-
-
 
 /*Pink Color*/
 
@@ -720,9 +718,6 @@
 .green-text.text-accent-4 {
   color: #00C853 !important;
 }
-
-
-
 
 .yellow {
   background-color: #ffeb3b !important;
